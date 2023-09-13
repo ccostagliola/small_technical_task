@@ -46,9 +46,9 @@ public:
 
 
     /**
-     * @brief Returns the balance of the account.
+     * @brief Returns the balance of the account
      * 
-     * @return int The balance.
+     * @return int The balance
      */
     virtual int balance() const = 0;
 
