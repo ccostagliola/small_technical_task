@@ -3,7 +3,7 @@
 I coded this to show my developer skills to an enterprise job application.
 
 The requirements of this task were the following:
-- Design and implement a Back/account manager in C++.
+- Design and implement a Bank/account manager in C++.
 - More requirement details are not provided to disallow copy.
 
 ## Building
